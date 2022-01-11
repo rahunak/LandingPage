@@ -1,2 +1,2 @@
-# LendingPage
+# LendingPageHTML
 for https://www.freecodecamp.org/
